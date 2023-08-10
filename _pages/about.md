@@ -34,7 +34,7 @@ Publications
 
 Patents
 ======
-
+* S. Wang, and __Q. Huang__, “Transformer Impedance Balance Circuit For Power Converters,” US Patent, pending.
 * S. Wang, and __Q. Huang__, “Transformer Structure with Bifilar Windings,” US Patent, pending.
 * S. Wang, Z. Ma and __Q. Huang__, “Wireless Charging and Near-field Communication (NFC) Integration,” US Patent, pending.
 * W. Li, __Q. Huang__, C. Li, H. Yang, X. Gu, M. Chen, H. Yang, X. He, “Method for dc islanding detection based on positive feedback of bus voltage at specific frequency,” US Patent, pending.
