@@ -27,7 +27,7 @@ author_profile: true
 
 2)	EMI modeling of high-frequency magnetic components used in power converters including transformers, inductors, EMI filters
    
-*  **Integration of near-field communication (NFC) atenna and wireless charging(WLC) coil**  &emsp;      Sep. 2021-Feb. 2022
+*  **Integration of near-field communication (NFC) antenna and wireless charging(WLC) coil**  &emsp;      Sep. 2021-Feb. 2022
 
 
 
