@@ -20,17 +20,24 @@ author_profile: true
 *  **EMI modeling and reduction of traction inverter for electrical vehicle**  &emsp;      Aug. 2023-present supported by Ford Motor Company
   *  **Radiated EMI filters design for power converters**  &emsp;      Nov. 2022-Jul. 2023
 1)	Investigated radiation model of power converters with radiated EMI filters
+   
 2)	Investigated interaction between radiated EMI filter and power converters
+   
 3)	Proposed radiated EMI filter design procedure and guideline
 *  **High-frequency CM EMI model and performance improvement for isolated converters**   Feb. 2022-Nov. 2022
 1)	Investigate CM EMI model of isolated converters including flyback converter, two-switch forward converter, LLC converter.
+   
 2)	Investigate mechanism of resonance of CM impedance of transformer
+   
 3)	Proposed new transformer structure of primary winding in bifilar structure with better CM EMI attenuation performance
+   
 4)	Proposed RLC balance technique for transformer with CM EMI reduction in wide-band frequency range
    
 *  **Integration of near-field communication (NFC) antenna and wireless charging(WLC) coil**  &emsp;      Sep. 2021-Feb. 2022
 1)	Investigated integration structure of NFC antenna and wireless charging coil using second stage inductance
+   
 2)	Characterize and model high-frequency impedance of integration coil
+   
 3)	Simulation analysis and experimental verification of proposed integration coil
 
 
