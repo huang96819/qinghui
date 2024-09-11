@@ -19,11 +19,13 @@ author_profile: true
  
 *  **EMI modeling and reduction of traction inverter for electrical vehicle**  &emsp;      Aug. 2023-present supported by Ford Motor Company
   
-1)	Diagnosis and analysis of CM/DM EMI noise sources and propagation paths in e-powertrain
+  1)	Diagnosis and analysis of CM/DM EMI noise sources and propagation paths in e-powertrain
   
-2)	Investigated and developed CM/DM EMI models of e-powertrain to predict CM/DM EMI noise up to 108MHz including extraction and simulation of parasitic parameters of CM/DM EMI noise path in e-powertrain, modeling and prediction of spectrum analyzers considering RBW effects
+  2)	Investigated and developed CM/DM EMI models of e-powertrain to predict CM/DM EMI noise up to 108MHz including 
+  extraction and simulation of parasitic parameters of CM/DM EMI noise path in e-powertrain, modeling and prediction of 
+  spectrum analyzers considering RBW effects
    
-3)	Designed EMI filter and balance technique to reduce CM/DM EMI noise
+  3)	Designed EMI filter and balance technique to reduce CM/DM EMI noise
 
   *  **Radiated EMI filters design for power converters**  &emsp;      Nov. 2022-Jul. 2023
     
@@ -36,21 +38,17 @@ author_profile: true
    
 *  **High-frequency CM EMI model and performance improvement for isolated converters**   Feb. 2022-Nov. 2022
   
-1)	Investigate CM EMI model of isolated converters including flyback converter, two-switch forward converter, LLC converter.
-   
-2)	Investigate mechanism of resonance of CM impedance of transformer
-   
-3)	Proposed new transformer structure of primary winding in bifilar structure with better CM EMI attenuation performance
-   
-4)	Proposed RLC balance technique for transformer with CM EMI reduction in wide-band frequency range
+1)	Investigated CM EMI model of isolated converters including flyback converter, two-switch forward converter, and LLC converter especially related to model and physical mechanism of resonance in CM impedance of the transformer
+2)	Proposed new transformer structure of primary winding in bifilar structure with an effective frequency range of two-capacitor model and capacitance balance EMI reduction technique increasing by ~50%
+3)	Proposed RLC balance technique for transformer with the benefit of CM EMI noise reduction frequency range doubled and almost 20 dB CM EMI noise reduction for 1kW LLC converter
    
 *  **Integration of near-field communication (NFC) antenna and wireless charging(WLC) coil**  &emsp;      Sep. 2021-Feb. 2022
   
-1)	Investigated integration structure of NFC antenna and wireless charging coil using second stage inductance
+1)	Investigated integration between NFC antenna and WLC coil leveraging leakage inductance
    
-2)	Characterize and model high-frequency impedance of integration coil
+2)	Characterized and built circuit and physical model of integration coil at high frequency
    
-3)	Simulation analysis and experimental verification of proposed integration coil
+3)	Proposed integration coil demonstrating 15W wireless power delivery and successful NFC communication which shows 3 times power transfer ability compared to the existing technique
 
 
 
