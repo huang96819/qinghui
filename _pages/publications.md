@@ -18,13 +18,22 @@ author_profile: true
  &emsp; _University of Florida_              &emsp;     &emsp;                      **_Supervisor: Prof. Shuo Wang_**
  
 *  **EMI modeling and reduction of traction inverter for electrical vehicle**  &emsp;      Aug. 2023-present supported by Ford Motor Company
+  
+1)	Diagnosis and analysis of CM/DM EMI noise sources and propagation paths in e-powertrain
+  
+2)	Investigated and developed CM/DM EMI models of e-powertrain to predict CM/DM EMI noise up to 108MHz including extraction and simulation of parasitic parameters of CM/DM EMI noise path in e-powertrain, modeling and prediction of spectrum analyzers considering RBW effects
+   
+3)	Designed EMI filter and balance technique to reduce CM/DM EMI noise
+
   *  **Radiated EMI filters design for power converters**  &emsp;      Nov. 2022-Jul. 2023
     
-1)	Investigated radiation model of power converters with radiated EMI filters
+1)	Developed radiated EMI model of power converters with radiated EMI filters
    
-2)	Investigated interaction between radiated EMI filter and power converters
+2)	Identified and developed a model for a new radiation antenna consisting of power converters and output cables excited by voltage of CM choke
    
-3)	Proposed radiated EMI filter design procedure and guideline
+3)	Proposed radiated EMI filter design procedure and topology/value selection guidelines
+
+   
 *  **High-frequency CM EMI model and performance improvement for isolated converters**   Feb. 2022-Nov. 2022
   
 1)	Investigate CM EMI model of isolated converters including flyback converter, two-switch forward converter, LLC converter.
