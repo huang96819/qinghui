@@ -16,8 +16,10 @@ author_profile: true
 {% endfor %}
 
  &emsp; _University of Florida_              &emsp;     &emsp;                      **_Supervisor: Prof. Shuo Wang_**
+ *  **A 3.3kV/200A 70kHz Half Bridge SiC Power Module with Low EMI, Low Power Loss, Good Thermal Management and High Reliability**  &emsp;      Sep. 2024-present supported by ARPA-E
+  1)	Design self-contained EMI power modules to reduce CM/DM EMI noise, Near-field, Far-field in 3.3kV 200A power modules
  
-*  **EMI modeling and reduction of traction inverter for electrical vehicle**  &emsp;      Aug. 2023-present supported by Ford Motor Company
+*  **EMI modeling and reduction of traction inverter for electric vehicle**  &emsp;      Aug. 2023-Dec. 2024 supported by Ford Motor Company
   
   1)	Diagnosis and analysis of CM/DM EMI noise sources and propagation paths in e-powertrain
   
